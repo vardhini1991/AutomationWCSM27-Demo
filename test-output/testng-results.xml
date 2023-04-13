@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-12T16:49:05 IST" name="Default suite" finished-at="2023-04-12T16:49:05 IST" duration-ms="46">
+  <suite started-at="2023-04-13T11:28:57 IST" name="Default suite" finished-at="2023-04-13T11:28:58 IST" duration-ms="165">
     <groups>
     </groups>
-    <test started-at="2023-04-12T16:49:05 IST" name="Default test" finished-at="2023-04-12T16:49:05 IST" duration-ms="46">
+    <test started-at="2023-04-13T11:28:57 IST" name="Default test" finished-at="2023-04-13T11:28:58 IST" duration-ms="165">
       <class name="Gitpractice.Demogit">
-        <test-method signature="demogit()[pri:0, instance:Gitpractice.Demogit@8317c52]" started-at="2023-04-12T16:49:05 IST" name="demogit" finished-at="2023-04-12T16:49:05 IST" duration-ms="9" status="PASS">
+        <test-method signature="demogit()[pri:0, instance:Gitpractice.Demogit@8317c52]" started-at="2023-04-13T11:28:58 IST" name="demogit" finished-at="2023-04-13T11:28:58 IST" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demogit -->
