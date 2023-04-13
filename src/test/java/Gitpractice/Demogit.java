@@ -23,8 +23,6 @@ public class Demogit
 		System.out.println("changes done by sana");
 		
 		
-		
-		
 	
 
 	}
