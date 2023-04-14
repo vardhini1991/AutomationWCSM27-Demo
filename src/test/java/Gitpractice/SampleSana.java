@@ -7,7 +7,10 @@ public class SampleSana
 @Test
 public void sample()
 {
-System.out.println("this is demo sample");	
+System.out.println("this is demo sample");
+
+
+
 }
 	
 }
