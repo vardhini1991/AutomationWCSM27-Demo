@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-13T11:28:57 IST" name="Default suite" finished-at="2023-04-13T11:28:58 IST" duration-ms="165">
+  <suite started-at="2023-04-14T11:00:21 IST" name="Default suite" finished-at="2023-04-14T11:00:21 IST" duration-ms="173">
     <groups>
     </groups>
-    <test started-at="2023-04-13T11:28:57 IST" name="Default test" finished-at="2023-04-13T11:28:58 IST" duration-ms="165">
-      <class name="Gitpractice.Demogit">
-        <test-method signature="demogit()[pri:0, instance:Gitpractice.Demogit@8317c52]" started-at="2023-04-13T11:28:58 IST" name="demogit" finished-at="2023-04-13T11:28:58 IST" duration-ms="25" status="PASS">
+    <test started-at="2023-04-14T11:00:21 IST" name="Default test" finished-at="2023-04-14T11:00:21 IST" duration-ms="173">
+      <class name="Gitpractice.Branchingpractice">
+        <test-method signature="branch()[pri:0, instance:Gitpractice.Branchingpractice@8317c52]" started-at="2023-04-14T11:00:21 IST" name="branch" finished-at="2023-04-14T11:00:21 IST" duration-ms="45" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demogit -->
-      </class> <!-- Gitpractice.Demogit -->
+        </test-method> <!-- branch -->
+      </class> <!-- Gitpractice.Branchingpractice -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
